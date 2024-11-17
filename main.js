@@ -1,13 +1,4 @@
-const multiplication = (...args)=>{
-
-    ans = 1
-
-    args.forEach(elem=>{
-        ans *= elem
-    })
-
-    return ans
-}
+// jkdjs
 
 console.log(multiplication(10, 2));
 console.log("hello github");
