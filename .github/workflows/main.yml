@@ -1,0 +1,7 @@
+name: test name
+on: push
+jobs:
+  job-1:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo " hi a am from file 2 and run on push"
